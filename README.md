@@ -7,6 +7,7 @@ The goal of this project is to build a model that can accurately predict the med
 ## Dataset
 
 The project uses the Boston Housing dataset, a widely used dataset in machine learning. It contains information about housing prices and various features for different neighborhoods in Boston.
+
 **Link to Dataset:** 
 https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data
 
