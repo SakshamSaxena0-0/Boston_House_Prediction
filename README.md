@@ -12,7 +12,7 @@ The project uses the Boston Housing dataset, a widely used dataset in machine le
 
 <ul dir="auto">
 ● CRIM: Per capita crime rate by town
-● ZN: Proportion of residential land zoned for lots over 25,000 sq.ft.
+<br>● ZN: Proportion of residential land zoned for lots over 25,000 sq.ft.</br>
 ● INDUS: Proportion of non-retail business acres per town
 ● CHAS: Charles River dummy variable (1 if tract bounds river; 0 otherwise)
 ● NOX: Nitric oxides concentration (parts per 10 million)
