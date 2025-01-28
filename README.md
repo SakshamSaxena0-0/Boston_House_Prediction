@@ -10,6 +10,7 @@ The project uses the Boston Housing dataset, a widely used dataset in machine le
 
 **Features:**
 
+<ul dir="auto">
 ● CRIM: Per capita crime rate by town
 ● ZN: Proportion of residential land zoned for lots over 25,000 sq.ft.
 ● INDUS: Proportion of non-retail business acres per town
@@ -23,7 +24,10 @@ The project uses the Boston Housing dataset, a widely used dataset in machine le
 ● PTRATIO: Pupil-teacher ratio by town
 ● B: 1000(Bk - 0.63)^2 where Bk is the proportion of Black people by town
 ● LSTAT: % lower status of the population
+</ul>
 
 **Target Variable:**
 
+<ul dir="auto">
 ● MEDV: Median value of owner-occupied homes in $1000's
+</ul>
